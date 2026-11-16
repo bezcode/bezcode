@@ -22,9 +22,6 @@
   <img src="https://skillicons.dev/icons?i=rust,python,cpp,js,ts,nextjs,react,nodejs,docker,linux,git,postgres,mongodb" alt="Tech Stack" />
 </p>
 
-* **Системные языки:** `Rust`, `C++`, `Python`
-* **Frontend & Web:** `JavaScript`, `TypeScript`, `Next.js`, `React`, `HTML/CSS`
-* **Backend & DevOps:** `Node.js`, `PostgreSQL`, `MongoDB`, `Docker`, `Linux`, `Git`
 
 ---
 
