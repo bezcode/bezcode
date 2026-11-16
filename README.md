@@ -1,62 +1,43 @@
-<h1 align="center">Привет, я FullStack Разработчик! 👋</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=blueviolet" alt="GitHub Followers" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Header Waves">
 </p>
 
+<h2 align="center">FullStack Developer & Systems Enthusiast 🚀</h2>
+
 <p align="center">
-  <em>Стремлюсь создавать быстрые, масштабируемые и элегантные решения — от железа и системного софтостроения до современных веб-интерфейсов.</em>
+  <em>Создаю быстрые, масштабируемые и технологичные решения — от системного софта до современных веб-интерфейсов.</em>
 </p>
 
 ---
 
 ### 💻 Обо мне
 
-- 🔭 Сейчас я работаю над крутыми FullStack-проектами.
-- ⚡ Увлекаюсь системным программированием, разработкой высокопроизводительных приложений и веб-технологий.
-- 🎯 Цель: писать чистый код, который решает реальные задачи бизнеса и пользователей.
+Привет! Я увлечен разработкой во всех ее проявлениях. Пишу надежный код на **Rust**, **Python** и **C++**, а также создаю современные интерактивные веб-приложения на **JavaScript**, **TypeScript** и **Next.js**. Ценю производительность, чистую архитектуру и эстетику в коде.
 
 ---
 
-### 🛠️ Технологический стек
+### 🛠 Стек технологий
 
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,python,cpp,js,ts,nextjs,react,nodejs,html,css,git,docker,linux,postgres,mongodb" alt="Tech Stack Icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,cpp,js,ts,nextjs,react,nodejs,docker,linux,git,postgres,mongodb" alt="Tech Stack" />
 </p>
 
-| Категория | Технологии |
-| :--- | :--- |
-| **Языки программирования** | `Rust`, `Python`, `C++`, `JavaScript`, `TypeScript` |
-| **Frontend** | `Next.js`, `React`, `HTML5`, `CSS3`, `Tailwind CSS` |
-| **Backend & Базы данных** | `Node.js`, `Express`, `PostgreSQL`, `MongoDB`, `Redis` |
-| **Инструменты & DevOps** | `Git`, `Docker`, `Linux`, `Webpack`, `Vite` |
+* **Системные языки:** `Rust`, `C++`, `Python`
+* **Frontend & Web:** `JavaScript`, `TypeScript`, `Next.js`, `React`, `HTML/CSS`
+* **Backend & DevOps:** `Node.js`, `PostgreSQL`, `MongoDB`, `Docker`, `Linux`, `Git`
 
 ---
 
-### 📊 Статистика GitHub
+### 🌐 На связи
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-
----
-
-### 🌐 Где меня найти
-
-<p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
